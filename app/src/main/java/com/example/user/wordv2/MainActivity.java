@@ -32,4 +32,5 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("trans", "ru");
         startActivity(intent);
     }
+    //temp
 }
